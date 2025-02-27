@@ -1,3 +1,4 @@
+import random
 def is_prime(n, k=5):  # k is the number of rounds for accuracy
     if n < 2:
         return False
